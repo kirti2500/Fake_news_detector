@@ -22,10 +22,11 @@ This project fine-tunes a **mini BERT model** (`prajjwal1/bert-mini`) to classif
 
 ## 📂 Files Included
 
-| File/Folder                | Description                                |
+| File/Folder                | Description                               |
 |---------------------------|--------------------------------------------|
 | `bert-fake-news-model/`   | Fine-tuned model files (config, tokenizer) |
-| `BERT_Fake_News_Detector.ipynb` | Colab notebook (optional to upload)         |
+| `BERT_Fake_News_Detector.ipynb`| Full Colab notebook with training,    |
+|                                   evaluation and prediction code       |
 | `README.md`               | This documentation                         |
 
 ---
